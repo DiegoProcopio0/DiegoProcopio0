@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: @diego__procopio
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
