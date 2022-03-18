@@ -1,4 +1,4 @@
-<h1 align= "center"> Olá 👋
+<h1 align= "center"> Olá 👋 </h1>
 
 
 - 👏 I’m currently learning **Front-end..**
