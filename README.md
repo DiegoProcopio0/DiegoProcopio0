@@ -10,8 +10,6 @@
 
 - 💬 Ask me about tecnology..
 
-- 📫 How to reach me: @diego__procopio
-
 
 <h2 align="center">🛠 &nbsp;Tech Stack</h2>
 
