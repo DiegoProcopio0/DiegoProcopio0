@@ -1,5 +1,8 @@
-<h1 align= "center"> Olá 👋 </h1>
-
+<h1 align="center"> Hello  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"
+    width="30px"
+  />
+    , I'm Diego Silva
+</h1>
 
 - 👏 I’m currently learning **Front-end..**
 
@@ -9,16 +12,28 @@
 
 - 📫 How to reach me: @diego__procopio
 
-<br>
 
-## 🛠 &nbsp;Tech Stack
+<h2 align="center">🛠 &nbsp;Tech Stack</h2>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<div style="display: inline_block"  align="center" >
+  </br>
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div> 
 
+##
+<div align="center">
+<a href="https://www.instagram.com/diego__procopio/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF" target="_blank" alt="instagram" >
+</a>
+
+<a href = "mailto:digprocopio98@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00ffff" target="_blank" alt="Gmail">
+</a>
+  
+<a href="https://www.linkedin.com/in/diego-procópio-32a6b0206/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00ffff" target="_blank" alt="LinkedIn">
+</a>
+</div>
