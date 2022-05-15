@@ -10,6 +10,8 @@
 
 - 💬 Ask me about tecnology..
 
+- ✅ Available for work and collaborations 👍 
+
 
 <h2 align="center">🛠 &nbsp;Tech Stack</h2>
 
