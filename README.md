@@ -1,5 +1,5 @@
 <h1 align="center"> Hello  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"
-    width="30px"
+    width="3px"
   />
     , I'm Diego Silva
 </h1>
