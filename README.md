@@ -1,5 +1,7 @@
-<h1 align="center"> Hello  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"
-    width="3px"
+<h1 align="center"> 
+    Hello  
+    <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"
+    width="30px" height="30px"
   />
     , I'm Diego Silva
 </h1>
