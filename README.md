@@ -1,4 +1,4 @@
-<img align="center" src="https://i.ibb.co/m5Zcs6D/github-header-image.png"/>
+<img align="center" src="https://i.ibb.co/zS8pWGG/github-header-image-1.png"/>
 
 
 - 👏 I’m currently learning **Front-end..**
