@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00ffff" target="_blank" alt="Gmail">
 </a>
   
-<a href="https://www.linkedin.com/in/diego-procópio-32a6b0206/" target="_blank">
+<a href="https://www.linkedin.com/in/diego-procopio/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00ffff" target="_blank" alt="LinkedIn">
 </a>
 </div>
