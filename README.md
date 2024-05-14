@@ -1,7 +1,13 @@
 <h2>Oiii eu sou Diego Procopio, desenvolvedor web!</h2>
 
 <div>
-  Apaixonado por Programação, venho estudando tecnologias na área desde 2021, com foco no desenvolvimento de aplicações Web. Sigo buscando oportunidades para resolver problemas.
+Formado em técnico em informatica para internet, possuo experiência desenvolvendo e mantendo aplicações web. As ferramentas que eu pude mais me aprimorar durante esses anos foram as ferramentas web, tanto as mais conhecidas, como HTML, CSS e Javascript, quanto as que vão um pouco além do trivial, como Typescript, nodeJs e VueJs e React.
+
+Além de lidar com equipes ágeis que praticam as melhores práticas do Scrum no dia-a-dia, também trabalho com boas práticas de GIT, utilizando principalmente o git flow e pull requests para colaborar nos projetos que não trabalho diretamente.
+
+No momento, estou focado na área de desenvolvimento Front-end, mergulhando em cursos especializados.
+
+Estou sempre aberto a novos desafios e oportunidades de colaboração. Se você está buscando um desenvolvedor web apaixonado por tecnologia e comprometido com a excelência, não hesite em entrar em contato!
 </div>
 
 <div style="display: inline_block">
