@@ -2,11 +2,23 @@
 
 <div>
 Formado em técnico em informatica para internet, possuo experiência desenvolvendo e mantendo aplicações web. As ferramentas que eu pude mais me aprimorar durante esses anos foram as ferramentas web, tanto as mais conhecidas, como HTML, CSS e Javascript, quanto as que vão um pouco além do trivial, como Typescript, nodeJs e VueJs e React.
+</div>
 
-Além de lidar com equipes ágeis que praticam as melhores práticas do Scrum no dia-a-dia, também trabalho com boas práticas de GIT, utilizando principalmente o git flow e pull requests para colaborar nos projetos que não trabalho diretamente.
+<br/>
 
-No momento, estou focado na área de desenvolvimento Front-end, mergulhando em cursos especializados.
+<div>
+  Além de lidar com equipes ágeis que praticam as melhores práticas do Scrum no dia-a-dia, também trabalho com boas práticas de GIT, utilizando principalmente o git flow e pull requests para colaborar nos projetos que não trabalho diretamente.
+</div>
 
+<br/>
+
+<div>
+  No momento, estou focado na área de desenvolvimento Front-end, mergulhando em cursos especializados.
+</div>
+
+<br/>
+
+<div>
 Estou sempre aberto a novos desafios e oportunidades de colaboração. Se você está buscando um desenvolvedor web apaixonado por tecnologia e comprometido com a excelência, não hesite em entrar em contato!
 </div>
 
