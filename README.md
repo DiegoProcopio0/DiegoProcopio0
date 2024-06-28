@@ -13,12 +13,6 @@ Formado em técnico em informatica para internet, possuo experiência desenvolve
 <br/>
 
 <div>
-  No momento, estou focado na área de desenvolvimento Front-end, mergulhando em cursos especializados.
-</div>
-
-<br/>
-
-<div>
 Estou sempre aberto a novos desafios e oportunidades de colaboração. Se você está buscando um desenvolvedor web apaixonado por tecnologia e comprometido com a excelência, não hesite em entrar em contato!
 </div>
 
