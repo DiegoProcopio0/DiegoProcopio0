@@ -1,6 +1,6 @@
 <h2>Olá eu sou Diego Procopio, Desenvolvedor Web Full-Stack</h2>
 
-## 🤖 Sobre Mim
+### 🤖 Sobre Mim
 
 - 🗂️ Portfólio: <a href="https://portifolio-one-liard.vercel.app/">Clique para Visualizar</a>
 - 📄 Currículo - [Clique para Download](https://portifolio-one-liard.vercel.app/assets/cv-diegoprocopio.3973e35c.pdf)
