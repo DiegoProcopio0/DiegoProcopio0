@@ -1,14 +1,11 @@
-<h2>Oiii eu sou Diego Procopio, desenvolvedor web!</h2>
+<h2>Olá eu sou Diego Procopio, Desenvolvedor Web Full-Stack</h2>
 
-<div>
-Formado em técnico em informatica para internet, possuo experiência desenvolvendo e mantendo aplicações web. As ferramentas que eu pude mais me aprimorar durante esses anos foram as ferramentas web, tanto as mais conhecidas, como HTML, CSS e Javascript, quanto as que vão um pouco além do trivial, como Typescript, nodeJs e VueJs e React.
-</div>
+## 🤖 Sobre Mim
 
-<br/>
-
-<div>
-  Além de lidar com equipes ágeis que praticam as melhores práticas do Scrum no dia-a-dia, também trabalho com boas práticas de GIT, utilizando principalmente o git flow e pull requests para colaborar nos projetos que não trabalho diretamente.
-</div>
+- 🗂️ Portfólio: <a href="https://portifolio-one-liard.vercel.app/">Clique para Visualizar</a>
+- 📄 Currículo - [Clique para Download](https://portifolio-one-liard.vercel.app/assets/cv-diegoprocopio.3973e35c.pdf)
+- 📧 Email: diegprocopio@gmail.com
+- 📱 Celular: +55 (19) 971240-888
 
 <br/>
 
@@ -30,9 +27,10 @@ Estou sempre aberto a novos desafios e oportunidades de colaboração. Se você 
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div> 
+</div>
 
 ##
+
 <div>
 <a href="https://www.instagram.com/diegoxyz_dev/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF" target="_blank" alt="instagram" >
