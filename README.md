@@ -9,12 +9,20 @@
 
 <br/>
 
-<div>
-Estou sempre aberto a novos desafios e oportunidades de colaboração. Se você está buscando um desenvolvedor web apaixonado por tecnologia e comprometido com a excelência, não hesite em entrar em contato!
-</div>
 
+
+<br> 
+
+
+ <div align="center">
+   <a href="https://github.com/DiegoProcopio0">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoProcopio0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoProcopio0&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+<br> 
+
+## Tecnologias :monocle_face:
 <div style="display: inline_block">
-  </br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
@@ -30,9 +38,11 @@ Estou sempre aberto a novos desafios e oportunidades de colaboração. Se você 
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
-##
+<br> 
 
-<div>
+
+## Contato :monocle_face:
+<div style="display: inline_block">
 <a href="https://www.instagram.com/diegoxyz_dev/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF" target="_blank" alt="instagram" >
 </a>
@@ -45,3 +55,7 @@ Estou sempre aberto a novos desafios e oportunidades de colaboração. Se você 
     <img src="https://img.shields.io/badge/-LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00ffff" target="_blank" alt="LinkedIn">
 </a>
 </div>
+
+##
+![Snake animation](https://github.com/DiegoProcopio0/DiegoProcopio0/blob/output/github-contribution-grid-snake.svg)
+
