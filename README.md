@@ -5,7 +5,7 @@
 - 🗂️ Portfólio: <a href="https://portifolio-one-liard.vercel.app/">Clique para Visualizar</a>
 - 📄 Currículo - [Clique para Download](https://portifolio-one-liard.vercel.app/assets/cv-diegoprocopio.3973e35c.pdf)
 - 📧 Email: diegprocopio@gmail.com
-- 📱 Celular: +55 (19) 971240-888
+- 📱 Celular: <a href="https://contate.me/diegodev">+55 (19) 971240-888</a>
 
 <br/>
 
