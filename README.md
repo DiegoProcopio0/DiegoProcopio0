@@ -1,4 +1,4 @@
-<h2>Olá eu sou Diego Procopio, Desenvolvedor Web Full-Stack</h2>
+<h2>Olá, sou Diego Procopio, desenvolvedor full stack com experiência em criar e manter aplicações web.</h2>
 
 ### 🤖 Sobre Mim
 
