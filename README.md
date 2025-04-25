@@ -1,4 +1,4 @@
-<h2>Olá, sou Diego Procopio, desenvolvedor full stack com experiência em criar e manter aplicações web.</h2>
+<h2>Olá, sou Diego Procopio, desenvolvedor full stack júnior com experiência em aplicações web utilizando Vue, React, Node.js e TypeScript.</h2>
 
 ### 🤖 Sobre Mim
 
