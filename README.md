@@ -2,10 +2,10 @@
 
 ### 🤖 Sobre Mim
 
-- 🗂️ Portfólio: <a href="https://portifolio-five-green-99.vercel.app/">Clique para Visualizar</a>
-- 📄 Currículo - [Clique para Download](https://portifolio-five-green-99.vercel.app/diego-dev.pdf)
+- 🗂️ Portfólio: <a href="https://diegoprocopio.com.br/">Clique para Visualizar</a>
+- 📄 Currículo - [Clique para Download](https://diegoprocopio.com.br/)
 - 📧 Email: diegprocopio@gmail.com
-- 📱 Celular: <a href="https://contate.me/diegodev">+55 (19) 971240-888</a>
+- 📱 Celular: <a href="https://contate.me/5519971240888">+55 (19) 971240-888</a>
 
 <br/>
 
